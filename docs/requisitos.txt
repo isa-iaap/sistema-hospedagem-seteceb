@@ -1,0 +1,10 @@
+Projeto: Sistema de Hospedagem do SETECEB
+
+Objetivo:
+Organizar o controle de quartos e suítes, quantidade de hóspedes e datas de entrada e saída.
+
+Requisitos iniciais:
+- Cadastro de quartos
+- Cadastro de reservas
+- Controle de datas
+- Controle de quantidade de pessoas
